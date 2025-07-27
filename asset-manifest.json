@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/naritas2006/portfolio/static/css/main.f855e6bc.css",
+    "main.js": "/naritas2006/portfolio/static/js/main.82dc6c90.js",
+    "static/js/453.ad7768ec.chunk.js": "/naritas2006/portfolio/static/js/453.ad7768ec.chunk.js",
+    "index.html": "/naritas2006/portfolio/index.html",
+    "main.f855e6bc.css.map": "/naritas2006/portfolio/static/css/main.f855e6bc.css.map",
+    "main.82dc6c90.js.map": "/naritas2006/portfolio/static/js/main.82dc6c90.js.map",
+    "453.ad7768ec.chunk.js.map": "/naritas2006/portfolio/static/js/453.ad7768ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.82dc6c90.js"
+  ]
+}
