@@ -55,14 +55,15 @@ function Projects() {
       color: '#8E54E9'
     },
     {
-      id: 4,
-      title: 'Portfolio Website',
-      description: 'A personal portfolio website built with React and Material UI to showcase my projects, skills, and experience. This website serves as a digital resume and a platform to present my work to potential employers.',
-      technologies: ['React', 'Material UI', 'React Router'],
-      githubLink: 'https://github.com/narita-sharma/portfolio',
-      imageUrl: 'https://via.placeholder.com/600x300/00796b/ffffff?text=Portfolio+Website',
-      color: '#00796b'
-    }
+  id: 4,
+  title: 'Portfolio Website',
+  description: 'A personal portfolio website built with React and Material UI to showcase my projects, skills, and experience. This website serves as a digital resume and a platform to present my work to potential employers.',
+  technologies: ['React', 'Material UI', 'React Router'],
+  githubLink: 'https://github.com/naritas2006/portfolio', // ✅ Fixed link
+  imageUrl: 'https://via.placeholder.com/600x300/00796b/ffffff?text=Portfolio+Website',
+  color: '#00796b'
+}
+
   ];
 
   return (
